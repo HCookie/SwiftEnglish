@@ -423,7 +423,6 @@ digitize-digitise
 digitized-digitised
 digitizes-digitises
 digitizing-digitising
-disk-disc
 discolor-discolour
 discolored-discoloured
 discoloring-discolouring
@@ -449,7 +448,6 @@ dramatize-dramatise
 dramatized-dramatised
 dramatizes-dramatises
 dramatizing-dramatising
-draft-draught
 draftboard-draughtboard
 draftboards-draughtboards
 draftier-draughtier
